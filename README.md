@@ -20,7 +20,7 @@ The project is divided into multiple modules, with each module responsible for i
 - Display the results on the seven-segment displays.
 
 ## Design Simulation
-You can view the design simulation image [here](https://pdf.ac/1LggnQ).
+You can view the design simulation image [here](https://pdf.ac/1LggnO ).
 
 ## Video Demonstration
 A video demonstration of the project is available on YouTube: [Watch Video](https://youtu.be/FcSPLO7dj8A).
