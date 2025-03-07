@@ -25,6 +25,14 @@ You can view the design simulation image [here](https://pdf.ac/1LggnQ).
 ## Video Demonstration
 A video demonstration of the project is available on YouTube: [Watch Video](https://youtu.be/FcSPLO7dj8A).
 
+## Disclaimer
+This project, **Multiple Function Calculator on DE-10 Lite Board**, is for educational purposes only. It was developed as part of LE/EECS 3201 Course at York University, Lassonde School of Engineering. 
+
+- **Academic Integrity**: If you plan to use this project for school assignments, ensure you have **explicit permission from your professor or instructor**. Directly copying or submitting this work without proper understanding or authorization may violate your institution's academic integrity policies.
+- **Attribution**: Credit the original authors (Ali Shandhor and Siddhrajsinh Parmar) if you use or modify this project.
+
+By using this project, you agree to these terms.
+
 ## References
 1. Visiverify. (2022, December 11). Wallace Tree multiplier. VLSI Verify. [Link](https://visiverify.com/verilog/verilog-codes/wallace-tree-multiplier)
 2. YouTube. (n.d.). Route2basics. YouTube. [Link](https://www.youtube.com/@Route2basics0)
